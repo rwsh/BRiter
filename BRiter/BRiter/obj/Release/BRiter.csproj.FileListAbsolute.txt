@@ -1,0 +1,15 @@
+D:\aprogramm\Dropbox\PROGRAMM\Лаборатория\Теория игр\BRiter\BRiter\bin\Release\BRiter.exe.config
+D:\aprogramm\Dropbox\PROGRAMM\Лаборатория\Теория игр\BRiter\BRiter\bin\Release\BRiter.exe
+D:\aprogramm\Dropbox\PROGRAMM\Лаборатория\Теория игр\BRiter\BRiter\bin\Release\BRiter.pdb
+D:\aprogramm\Dropbox\PROGRAMM\Лаборатория\Теория игр\BRiter\BRiter\obj\Release\BRiter.csprojAssemblyReference.cache
+D:\aprogramm\Dropbox\PROGRAMM\Лаборатория\Теория игр\BRiter\BRiter\obj\Release\MainWindow.g.cs
+D:\aprogramm\Dropbox\PROGRAMM\Лаборатория\Теория игр\BRiter\BRiter\obj\Release\App.g.cs
+D:\aprogramm\Dropbox\PROGRAMM\Лаборатория\Теория игр\BRiter\BRiter\obj\Release\BRiter_MarkupCompile.cache
+D:\aprogramm\Dropbox\PROGRAMM\Лаборатория\Теория игр\BRiter\BRiter\obj\Release\BRiter_MarkupCompile.lref
+D:\aprogramm\Dropbox\PROGRAMM\Лаборатория\Теория игр\BRiter\BRiter\obj\Release\MainWindow.baml
+D:\aprogramm\Dropbox\PROGRAMM\Лаборатория\Теория игр\BRiter\BRiter\obj\Release\BRiter.g.resources
+D:\aprogramm\Dropbox\PROGRAMM\Лаборатория\Теория игр\BRiter\BRiter\obj\Release\BRiter.Properties.Resources.resources
+D:\aprogramm\Dropbox\PROGRAMM\Лаборатория\Теория игр\BRiter\BRiter\obj\Release\BRiter.csproj.GenerateResource.cache
+D:\aprogramm\Dropbox\PROGRAMM\Лаборатория\Теория игр\BRiter\BRiter\obj\Release\BRiter.csproj.CoreCompileInputs.cache
+D:\aprogramm\Dropbox\PROGRAMM\Лаборатория\Теория игр\BRiter\BRiter\obj\Release\BRiter.exe
+D:\aprogramm\Dropbox\PROGRAMM\Лаборатория\Теория игр\BRiter\BRiter\obj\Release\BRiter.pdb
